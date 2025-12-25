@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "#心がどっか寂しいんだ",
+  "base_artist": "カンザキイオリ",
+  "createdAt": "2025-12-25T09:51:52.350015Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "#心がどっか寂しいんだ (feat. 鏡音レン)",
+      "artist": "カンザキイオリ",
+      "has_synced": false,
+      "path": "select/pl_01_心がどっか寂しいんだ_(feat._鏡音レン)_カンザキイオリ.txt"
+    }
+  ]
+}
